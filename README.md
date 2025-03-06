@@ -2,12 +2,15 @@
 
 Hi there hello!
 
-I'm currently an incoming new grad at the University of Washington, majoring in Computer Science and minoring in Math.
+🏢 I'm a software engineer at Meta building out WhatsApp Calling Infra
 
-My main interests are in distributed and datacenter systems, deep learning, compilers, and algorithms.
+🏫 I graduated from the University of Washington as a CS major + math minor
 
-I do a fair bit of research in:
+💡 My main interests are in distributed systems, datacenter systems, compilers, deep learning, and piano performance
+
+🔬 I do a fair bit of research in:
 - datacenter systems for managing power consumption and improving energy efficiency
 - deep space navigation for CubeSats, specifically star trackers
 
-Email: `ezhang8@cs.washington.edu`
+Feel free to reach out! My email is: `zeddie8888@gmail.com`
+- Note: there are 4 `8`'s!
