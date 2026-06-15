@@ -6,7 +6,7 @@ Hi there hello!
 
 🏫 I graduated from the University of Washington as a CS major + math minor
 
-💡 My main interests are in distributed systems, deep learning, compilers, datacenter systems, football (🏈), and piano
+💡 My main interests are in distributed systems, deep learning, compilers, datacenter systems, football (🏈, Go Hawks), and piano
 
 🔬 Active research and projects:
 - Distributed computing engines
