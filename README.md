@@ -2,11 +2,11 @@
 
 Hi there hello!
 
-🏢 I'm a software engineer at Meta building WhatsApp Calling Infra. I work on large-scale distributed systems (including the Erlang programming language and BEAM virtual machine), networking, 0->1 product development, and higher-accuracy coding agents.
+🏢 I'm a software engineer at Meta working on high-performance collective communication for the next generation of Meta's custom AI silicon (MTIA). Before this, I worked on core WhatsApp Calling infra, including large-scale distributed systems, the Erlang programming language + BEAM virtual machine, networking, and 0->1 product development.
 
 🏫 I graduated from the University of Washington as a CS major + math minor
 
-💡 My main interests are in distributed systems, deep learning, compilers, datacenter systems, football (🏈, Go Hawks), and piano
+💡 My main interests are in compilers, distributed systems, deep learning, football (🏈, Go Hawks), and piano
 
 🔬 Active research and projects:
 - Distributed computing engines
